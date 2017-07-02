@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quick Apps</string>
+    <string name="accessibility_service_description">Favorite Apps Gesture</string>
+    <string name="accessibility_service_label">Quick Apps</string>
+</resources>
